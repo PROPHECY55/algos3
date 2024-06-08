@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1717871451 source:c:\users\prophecy\desktop\algos\algos3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<unordered_map>
+	<queue>
+	<limits>
+	<algorithm>
+	<iomanip>
+
